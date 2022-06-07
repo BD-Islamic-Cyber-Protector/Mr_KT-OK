@@ -14,8 +14,7 @@
 
 8👉 pip2 install mechanize
 
-9👉 git clone https://github.com/5gspammmingteam/5G_CYBER-MAFIA-TEAM.git
 
-10👉 5G_CYBER-MAFIA-TEAM
 
-11👉 5G_K4US4R.py
+
+
