@@ -1,18 +1,25 @@
-1👉 pkg update
+✅✅✅✅👉PAID👈✅✅✅✅
 
-2👉 pkg upgrade
+ pkg install git
 
-3👉 pkg install git
+ pkg install python
 
-4👉 pkg install python
+ pkg  install python2
 
-5👉 pkg  install python2
+ pip2 install requests
 
-6👉 pip2 install requests
+ pip2 install requirements
 
-7👉 pip2 install requirements
+ pip2 install mechanize
 
-8👉 pip2 install mechanize
+ pip2 install requests bs4
+
+git clone https://github.com/MrK4US4R/Mr_KT-Tanha
+
+cd Mr_KT-Tanha
+
+python Mr_KT-Tanha.py
+
 
 
 
