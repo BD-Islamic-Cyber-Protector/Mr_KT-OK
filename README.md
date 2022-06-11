@@ -14,11 +14,11 @@
 
  pip2 install requests bs4
 
-git clone https://github.com/MrK4US4R/Mr_KT-Tanha
+git clone https://github.com/MrK4US4R/Mr_KT-OK
 
-cd Mr_KT-Tanha
+cd Mr_KT-OK
 
-python Mr_KT-Tanha.py
+python Mr-KT-OK.py
 
 
 
